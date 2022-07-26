@@ -26,15 +26,14 @@ namespace OneHitObliterator.Content.Tools
 			Item.useTime = 1;
 			Item.useAnimation = 10;
 			Item.useStyle = ItemUseStyleID.Swing;
-			Item.value = Item.buyPrice(gold: 1); // Buy this item for one gold - change gold to any coin and change the value to any number <= 100
+			Item.value = Item.buyPrice(gold: 1); 
 			Item.rare = ItemRarityID.Green;
 			Item.UseSound = SoundID.Item1;
 			Item.autoReuse = true;
 
-			Item.pick = 35; // How strong the pickaxe is, see https://terraria.gamepedia.com/Pickaxe_power for a list of common values
+			Item.pick = 35; 
 		}
 
-		// Please see Content/ExampleRecipes.cs for a detailed explanation of recipe creation.
 		public override void AddRecipes()
 		{
 			CreateRecipe()
