@@ -1,0 +1,3 @@
+displayName = BotW Weapons+
+author = OcaMinty
+version = 1.0

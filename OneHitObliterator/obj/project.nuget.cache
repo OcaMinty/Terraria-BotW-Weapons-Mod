@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5uEhb3VfZ8Q9pHiPXWtQ24SCR3q4GaZUfypM34NQIfpT2nuszET9rJ8i2nMQWvBZpMaGZQ64dEOKGoox8oCLvA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Noah\\OneDrive\\Documents\\My Games\\Terraria\\tModLoader\\ModSources\\OneHitObliterator\\OneHitObliterator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Noah\\.nuget\\packages\\tmodloader.codeassist\\0.1.5\\tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
