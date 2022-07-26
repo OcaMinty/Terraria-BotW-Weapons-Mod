@@ -28,13 +28,12 @@ namespace OneHitObliterator.Content.Tools
 			Item.value = 10000;
 			Item.rare = ItemRarityID.Green;
 			Item.UseSound = SoundID.Item1;
-			Item.autoReuse = true; // Automatically re-swing/re-use this item after its swinging animation is over.
+			Item.autoReuse = true;
 
-			Item.axe = 30; // How much axe power the weapon has, note that the axe power displayed in-game is this value multiplied by 5
-			Item.hammer = 100; // How much hammer power the weapon has
+			Item.axe = 30; 
+			Item.hammer = 100; 
 		}
 
-		// Please see Content/ExampleRecipes.cs for a detailed explanation of recipe creation.
 		public override void AddRecipes()
 		{
 			CreateRecipe()
