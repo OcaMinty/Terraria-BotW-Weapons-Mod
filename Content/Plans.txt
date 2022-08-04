@@ -1,0 +1,60 @@
+﻿Melee:
+	Shortswords
+		Ancient Short Sword
+			Sword that deals extra damage to mechanical bosses.
+
+	Broadswords
+		Great Flameblade
+			Sword that sets enemies on fire.
+		Great Frostblade
+			Sword that freezes enemies
+		Great Thunderblade
+			Sword that electrecutes enemies.
+		Ancient Battle Axe
+			Sword that deals extra damage to mechanical bosses.
+			
+	Spears
+		Drillshaft
+			Spear that functions as a pickaxe.
+		Ancient Spear
+			Spear that deals extra damage to mechanical bosses.
+		Flamespear
+			Spear that sets enemies on fire.
+		Frostspear
+			Spear that freezes enemies.
+		Thunderspear
+			Spear that electrecutes enemies.
+
+Ranged:
+	Bows
+		Ancient Bow
+			Bow that deals extra damage to mechanical bosses.
+	Arrows
+		Ancient arrow
+			Deals extra damage to mechanical bosses.
+
+Magic:
+	Rods
+		Fire Rod
+			Shoots fireball.
+		Ice Rod
+			Shoots iceball.
+		Lightning Rod
+			Shoots electric ball.
+
+Shields:
+	Shields
+		Hylian Shield
+			Just a really strong shield.
+		Kite Shield
+			Allows flight.
+		Ancient Shield
+			Decreases damage from mechanical bosses.
+
+Armor:
+	Armor
+		No.
+
+Food:
+	Food
+		Maybe.
